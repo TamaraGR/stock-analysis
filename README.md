@@ -22,5 +22,21 @@ This is an analysis of the ![VBA_Challenge](https://github.com/TamaraGR/stock-an
 
 The analysis of the greenstocks returns for the years 2017 and 2018 doesn't give us enough data to provide our client with adequeate level of detail and forecast/ advice with regards to which stocks to purchase. The recommendation is to look beyond these two years for deeper analysis. 
 
-### General All 
+### General Analysis and refactured Analysis 
+
+*2017 general stock analysis speed image*
+
+![AllStockAnalysis_2017_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/AllStocksAnalysis_2017_timer.png)
+
+*2018 general stock analysis speed image*
+
+![AllStockAnalysis_2018_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/AllStocksAnalysis_2018_timer.png)
+
+*2017 refactured stock analysis speed image*
+
+![VBA_Challenge_2017_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2017_timer.png)
+
+*2018 refactured stock analysis speed image*
+
+![VBA_Challenge_2018_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2018%_timer.png)
 
