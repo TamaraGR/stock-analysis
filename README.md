@@ -40,3 +40,29 @@ The analysis of the greenstocks returns for the years 2017 and 2018 doesn't give
 
 ![VBA_Challenge_2018_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2018_timer.png)
 
+As you can see from the images above, the calculations execution time ran much faster when ordered through the refactured script in comparison to the general analysis script. 
+In the refactured analysis we are not using the nested for loops. In fact, we are using only three loops, one in 2a, one in 2b through 3d and one in 4. The script for the refactured analysis goes through fewer iterations and therefore allows for less time for calcupations. For further reference to the loops code please see the images of the general script versus the refactured script below. 
+
+*General Code*
+
+![GeneralCode](https://github.com/TamaraGR/stock-analysis/blob/main/GeneralCode.png)
+
+*Refactured Code*
+
+![Refactured_Script_1](https://github.com/TamaraGR/stock-analysis/blob/main/Refactured_Script_1.png)
+
+![Refactured_Script_2](https://github.com/TamaraGR/stock-analysis/blob/main/Refactured_Script_2.png)
+
+## Summary 
+
+**Below is the summary of the performed stocks analysis**
+
+*What are the advantages or disadvantages of refactoring code?*
+
+
+
+*How do these pros and cons apply to refactoring the original VBA script?*
+
+
+
+
