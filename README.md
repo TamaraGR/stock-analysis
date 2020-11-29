@@ -59,9 +59,14 @@ In the refactored analysis we are not using the nested for loops. In fact, we ar
 
 *What are the advantages or disadvantages of refactoring code?*
 
-The advantages of refactoring code 
+The advantage of refactoring code is that it becomes more efficient. Not only the calculations run faster, but reading such code is easier, hense it's easier to find a potential bug, catch duplicate and unnecessary code. 
+
+The disadvantage of refactoring code is that the general code is more sequential than the refactored code. It is also possible that one refactores the code incorrectly, and then the code stops performing calculations, which would be to our disadvantage. 
 
 *How do these pros and cons apply to refactoring the original VBA script?*
+
+Refactoring helps us reduce the humber of for loops, which will result in reducing the memory that we need for processing the data calculations. Therefore the speed run time reduces. The con of applying the refactoring to the original VBA script is that it can mess up one's code, so maximum attention is needed. 
+
 
 
 
