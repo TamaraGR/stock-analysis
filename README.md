@@ -38,5 +38,5 @@ The analysis of the greenstocks returns for the years 2017 and 2018 doesn't give
 
 *2018 refactured stock analysis speed image*
 
-![VBA_Challenge_2018_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2018%_timer.png)
+![VBA_Challenge_2018_Timer](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2018_timer.png)
 
