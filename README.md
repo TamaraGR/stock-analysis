@@ -6,7 +6,15 @@ This is an analysis of the ![VBA_Challenge](https://github.com/TamaraGR/stock-an
 
 ## VBA Analysis Results 
 
+### 2017 and 2018 stock anaysis comparison 
 
+*2017 refactured stock analysis image*
+
+![VBA_Challenge_2017](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2017.png)
+
+*2018 refactured stock analysis image*
+
+![VBA_Challenge_2018](https://github.com/TamaraGR/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 
 
